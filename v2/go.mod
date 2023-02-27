@@ -78,8 +78,8 @@ require (
 	github.com/projectdiscovery/nvd v1.0.9-0.20220314070650-d4a214c1f87d
 	github.com/projectdiscovery/sliceutil v0.0.0-20220225084130-8392ac12fa6d
 	github.com/projectdiscovery/urlutil v0.0.0-20210525140139-b874f06ad921
-	github.com/projectdiscovery/wappalyzergo v0.0.38
-	github.com/stretchr/testify v1.7.1
+	github.com/projectdiscovery/wappalyzergo v0.0.84
+	github.com/stretchr/testify v1.8.1
 	github.com/zmap/zcrypto v0.0.0-20211005224000-2d0ffdec8a9b
 )
 
@@ -169,5 +169,5 @@ require (
 	google.golang.org/protobuf v1.27.1 // indirect
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6 // indirect
 	gopkg.in/corvus-ch/zbase32.v1 v1.0.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
